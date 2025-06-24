@@ -1,6 +1,5 @@
 {
   "buildCommand": "cd apps/web-cms && npm run build",
   "outputDirectory": "apps/web-cms/.next",
-  "framework": "nextjs",
-  "rootDirectory": "apps/web-cms"
+  "framework": "nextjs"
 }
